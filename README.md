@@ -1,6 +1,6 @@
 ## Hi, I'm chinmay
 
-<Backend Developer focused on Python and FastAPI.
+Backend Developer focused on Python and FastAPI.
 
 ## Tech Stack
 
